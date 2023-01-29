@@ -2,7 +2,7 @@
 a=input ("Masukkan nilai a:")
 b=input ("Masukkan nilai b:")
 
-# input nilai variabel
+# cetak nilai variabel
 print ("Variabel a=",a)
 print ("Variabel b=",b)
 

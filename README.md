@@ -5,7 +5,7 @@
 ### Latihan 1 ![latihan1](screenshoot/latihan1.png)
 - Menampilkan tulisan "Hello" dilayar
 - Menampilkan tulisan "Saya sedang belajar python" dilayar
-- perintah 'print' digunakan untuk melakukan output/cetak dari program yang dimasukan
+- perintah 'print' digunakan untuk melakukan output/cetak dari program yang dimasukkan
 
 ### Latihan 2 ![latihan2](screenshoot/latihan2.png)
 - Menjumlahkan variabel a dengan nilai 8
